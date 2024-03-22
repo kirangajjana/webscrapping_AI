@@ -8,7 +8,7 @@ filtered_hyperlinks = []
 remaining_hyperlinks = []
 
 for hyperlink in hyperlinks:
-    if hyperlink.startswith("https://www.microsoft.com/en-us/surface/business"):
+    if hyperlink.startswith(URL):
         filtered_hyperlinks.append(hyperlink)
     else:
         remaining_hyperlinks.append(hyperlink)
