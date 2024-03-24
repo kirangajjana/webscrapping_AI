@@ -11,7 +11,7 @@ import logging
 logging.basicConfig(filename='scraper_log.txt', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Define the URL of the web page you want to scrape
-url = "-"
+url = "url"
 
 # Create a new instance of the Microsoft Edge driver
 logging.info("Creating Edge WebDriver instance")

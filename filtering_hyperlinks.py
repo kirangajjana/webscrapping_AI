@@ -8,7 +8,7 @@ filtered_hyperlinks = []
 remaining_hyperlinks = []
 
 for hyperlink in hyperlinks:
-    if hyperlink.startswith(URL):
+    if hyperlink.startswith("url"):
         filtered_hyperlinks.append(hyperlink)
     else:
         remaining_hyperlinks.append(hyperlink)
