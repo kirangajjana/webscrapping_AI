@@ -31,7 +31,7 @@
   - The script saves the scraped text data into a pandas DataFrame and then writes the DataFrame to a CSV file.
 
 ## Built With
-- Python: The programming language used
+- Python: The programming language used in this webscrapping
 - Selenium WebDriver: Used to automate browser activities
 - BeautifulSoup: Used to parse HTML and extract data
 - pandas: Used to store and save the scraped data.
