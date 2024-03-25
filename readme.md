@@ -22,7 +22,7 @@
 ```
 ## Installing
   
-   - Clone the GitHub repository to your local machine.
+   - Clone the GitHub repository to your local machine
    - Navigate to the directory containing the Python script.
    - Run the Python script using the command python app.py
 
