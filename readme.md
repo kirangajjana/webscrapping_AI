@@ -34,4 +34,4 @@
 - Python: The programming language used in this webscrapping
 - Selenium WebDriver: Used to automate browser activities
 - BeautifulSoup: Used to parse HTML and extract data
-- pandas: Used to store and save the scraped data.
+- pandas: Used to store and save the scraped data
